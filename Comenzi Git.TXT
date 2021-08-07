@@ -1,0 +1,32 @@
+-Prima data cand fac un repository
+Accesezi folderul cu proiecte. Click dreapta -"Git bash here". 
+-Prima comanda
+git init   - initializezi empty repository
+git status / verifici daca ai fisiere noi sau modificate(rosu) 
+git add .  /(. adauga toate fisierele cu rosu )
+git status /fisierele care erau cu rosu => sunt cu verde 
+git commit -m "comentariu/mesaj"
+git remote add origin <URl de la git hub > (comanda copiata de pe github )
+git push -u origin master  (doar prima data) 
+
+
+
+- Urmatoarele dati cand modific proiectul :
+
+Accesezi folderul cu proiecte. Click dreapta -"Git bash here". 
+git init -  reinitializezi repository 
+git status
+git add .
+git status
+git commit -m "comentariu/mesaj"
+git push 
+
+
+
+Cum sa clonezi un repository de pe gitHub
+git clone url catre proiect 
+
+
+Cum sa faci un branch nou 
+git branch nume1
+
