@@ -30,3 +30,8 @@ git clone url catre proiect
 Cum sa faci un branch nou 
 git branch nume1
 
+Cum ne mutam pe un branch-
+git checkout numebranch
+
+
+
