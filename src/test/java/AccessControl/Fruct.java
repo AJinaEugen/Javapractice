@@ -39,6 +39,7 @@ public class Fruct {
    public void afiseazapret(){
       printpret();
 
+      System.out.println("Exemple: public ");
    }
 
 

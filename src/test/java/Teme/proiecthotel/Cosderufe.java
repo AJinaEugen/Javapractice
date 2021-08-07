@@ -210,7 +210,7 @@ System.out.println("Sunta hainele negre?");
         Cos5.addCos(pantaloninegri);
         Cos5.addCos(tricounegru);
         Cos5.cosContents();
-        Cos5.numar123(1,Cos5);
+//        Cos5.numar123(1,Cos5);
         return Cos5;
 
     }
@@ -242,14 +242,14 @@ System.out.println("Sunta hainele negre?");
 
 
 
-    public void numar123 (int i, Cosderufe Cosnr){
-
-        if ( i==1){ Cosderufe.verificahaineleifnegre(); }
-        if ( i==2){ Cosderufe.verificahaineleifalbe(); }
-        if ( i==3){ Cosderufe.verificahaineleifcolorate();}
-
-
-    }
+//    public void numar123 (int i, Cosderufe Cosnr){
+//
+//        if ( i==1){ Cosderufe.verificahaineleifnegre(); }
+//        if ( i==2){ Cosderufe.verificahaineleifalbe(); }
+//        if ( i==3){ Cosderufe.verificahaineleifcolorate();}
+//
+//
+//    }
 
 
 }

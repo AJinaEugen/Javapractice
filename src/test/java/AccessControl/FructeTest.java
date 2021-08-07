@@ -22,6 +22,10 @@ public class FructeTest {
         banana.afiseazapret();
 
 
+        System.out.println("Exemple: public ");
+
+
+
 
     }
 
