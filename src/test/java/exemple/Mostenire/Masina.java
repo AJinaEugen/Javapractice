@@ -12,7 +12,7 @@ package exemple.Mostenire;
         //
 public class Masina {
 
-    String marca;
+     String marca;
     String model;
     String culoare;
     int an;
